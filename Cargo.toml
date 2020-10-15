@@ -29,7 +29,7 @@ edition = "2018"
 bit_field = "0.10.0"
 bitflags = "1.0.4"
 usize_conversions = "0.2.0"
-array-init = "0.0.4"
+array-init = "1.0.0"
 
 [target.'cfg(target_arch = "x86_64")'.dependencies]
 raw-cpuid = "6.1.0"
